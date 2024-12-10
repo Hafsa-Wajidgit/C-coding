@@ -1,2 +1,2 @@
-# C-coding
-this repository contains all the basics coding of the C++
+# C++ coding
+This repository contains all the basics codes of the C++ language.
